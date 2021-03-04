@@ -10,7 +10,7 @@
   <samp>
     Hola, soy Fernando Robles Rivera :wave:
     <br><br>
-    Trabajo como Software Engenieer Sr. en Elektra :globe_with_meridians: developer!
+    Trabajo como Tech Lead en COREBIZ :globe_with_meridians: developer!
     <br><br>
     Vivo in México :mexico:
     <br><br>
