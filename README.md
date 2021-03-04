@@ -45,7 +45,7 @@
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### eCommerce
-![VTEX](http://img.shields.io/badge/-vtex%20DB-269539?logo=vtex&logoColor=pink)
+![VTEX](https://img.shields.io/badge/-VTEX-%23CC6699?logo=vtex&logoColor=ffffff)
 
 #### Others
 ![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
