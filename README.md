@@ -1,7 +1,7 @@
 ## Hi I'm Fernando Robles :fox_face:
 
 <p align="center">
-  <p bgcolor="black">
+  <p styles="background-color:black">
         <img src="https://firebasestorage.googleapis.com/v0/b/valentinders-card.appspot.com/o/pacman.gif?alt=media&token=e60566b8-0d81-40bf-8598-4b022b486620" width="50%">
   </p>
 
